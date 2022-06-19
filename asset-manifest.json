@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.aa0a3ddd.js",
+    "static/media/img_cta.png": "/static/media/img_cta.20315973ee0b6e6812f5.png",
+    "static/media/img_form_covid.png": "/static/media/img_form_covid.ab866ff8bf882bcffc2d.png",
+    "index.html": "/index.html",
+    "main.aa0a3ddd.js.map": "/static/js/main.aa0a3ddd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aa0a3ddd.js"
+  ]
+}
